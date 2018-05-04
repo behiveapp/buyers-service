@@ -1,1 +1,1 @@
-# buyers-service
+# sellers-service
